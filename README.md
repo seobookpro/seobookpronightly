@@ -1,4 +1,5 @@
-# seobookpronightly
+# SEO Book Pro - Alpha 0.0.1 - Nightly
+<hr>
 Welcome to the One and Only WordPress Custom Template made by 20 years Experienced Web Developer. The SEO Book Pro is fully optimized for the Search Engines like Google, Yahoo and Bing.  The Template is based on all old, current and featured Web Fundamentals that are Required by the Search Engines to Rank your website on better positions and serve the visitors better User Experience that can convert more.  
 
 Using SEO Book Pro can reduce your ROI because is build for Organic Ranks Your Services or Products you want to show to your Visitors.  The SEO Book Pro its come with all WordPress Default Features and Editable Elements. 
