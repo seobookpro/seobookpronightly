@@ -47,51 +47,60 @@ If you've enjoyed our SEO Book Pro project, find us on <a href="https://www.patr
 
 <p>Learn more about SEO Book Pro Basic Website and SEO Audit Tools and Dashboards - <a href="https://seobookpro.com/about/" target="_blank" title="About SEO Book Pro - Professional Website and SEO Audit Tools | SEO Book Pro Nightly WordPress Template" rel="bookmark">SEO Book Pro</a></p>
 
-    Search Engine Optimisation
-    Website SEO Audit Tools and Audits Dashboards
-    Search Engine Optimisation Tool
-    SEO Book
-    Pro SEO
-    Advanced SEO Book for Web Site Optimization for Search Engines
-
-Resources
-
-    SEO Book A-Z
-    Engines A-Z
-    Optimization A-Z
-    Search A-Z
-    SEO Book Pro A-Z
-
-
-SEO Guide
-
-    Search
-    Engine
-    Optimization
-    SEO A-Z
-    SEO CSS
-    SEO HTML – Structure of a Web Page
-
-
-Google SEO
-
-    Google SEO
-    Google News Sitemap
-    Sheet Formulas
-
-
-Website Links
-
-    Online Visibility
-    SEO Book Pro Plugins, Audit Scripts and SBP Custom WordPress Framework Template
-    Sitemap
-    Top 10 Schema markups for websites
-    SEO Book Pro All in One SEO Tool
-    SEO Book
-
+## SEO Book Pro - Alpha 0.0.1 - Nightly - Roadmap
+<hr>
+<ul>
+<li>Search Engine Optimisation
+<li>Website SEO Audit Tools and Audits Dashboards
+<li>Search Engine Optimisation Tool
+<li>SEO Book
+<li>Pro SEO
+<li>Advanced SEO Book for Web Site Optimization for Search Engines
+</ul>
+<hr>
+### SEO Book Pro - Alpha 0.0.1 - Nightly
+<hr>
+<ul>
+<li>SEO Book A-Z
+<li>Engines A-Z
+<li>Optimization A-Z
+<li>Search A-Z
+<li>SEO Book Pro A-Z
+</ul>
+<hr>
+### SEO Book Pro - Alpha 0.0.1 - Nightly Guide
+<hr>
+<ul>
+<li>Search
+<li>Engine
+<li>Optimization
+<li>SEO A-Z
+<li>SEO CSS
+<li>SEO HTML – Structure of a Web Page
+</ul>
+<hr>
+### Google SEO
+<hr>
+<ul>    
+<li>Google SEO
+<li>Google News Sitemap
+<li>Sheet Formulas
+</ul>
+<hr>
+### Website Links
+<hr>
+<ul>    
+<li>Online Visibility
+<li>SEO Book Pro Plugins, Audit Scripts and SBP Custom WordPress Framework Template
+<li>Sitemap
+<li>Top 10 Schema markups for websites
+<li>SEO Book Pro All in One SEO Tool
+<li>SEO Book
+</ul>
 
 SEO Book Pro
 
+<ul>
     SEO Book
     SEO Book A-Z
     SEO Book Pro
@@ -99,22 +108,24 @@ SEO Book Pro
     SEO Book Pro Dashboard Plugin
 
 
-View sketches, drawings, and roadmaps of the Tool
-SEO Book Pro
+<hr>
+### View sketches, drawings, and roadmaps of the Tools from SEO Book Pro
 
-Don't forget to share this video, like and subscribe to our YouTube channel.
 
-Get Notified about the launch of the SEO Book Pro Beta 1.1.0
+Get Notified about the launch of the SEO Book Pro Beta 1.1.0 - Subscribe
 
-Current Version of the SEO Book Pro WordPress Custom Template Framework:
+Current Version of the SEO Book Pro Nightly - Alpha - WordPress Custom Template Framework:
 
-SEO Book Pro version 1.0.1 ( Road Map ) - In Progress
-SEO Book Pro version 1.0.2 ( General Setup ) - In Progress
-SEO Book Pro version 1.0.3 ( General Setup ) - In Progress
-SEO Book Pro version 1.0.4 ( Folders and Semantic structure ) - In Progress
-SEO Book Pro version 1.0.5 ( General Folder and Files Structure ) - In Progress
-SEO Book Pro version 1.0.6 ( Documentations and How to's ) - In Progress
-SEO Book Pro version 1.0.7 ( Running Codes and Functions on Demo site ) - In Progress
-SEO Book Pro version 1.0.8 ( Debug and Test the Functionality ) - In Progress
-SEO Book Pro version 1.0.9 ( General Layouts and Styles for Responsive ) - In Progress
-SEO Book Pro version 1.1.0 ( Beta WordPress Custom Template Framework ) - In Progress
+<ol>
+SEO Book Pro Nightly version 0.0.1 ( Road Map )
+SEO Book Pro Nightly version 0.0.2 ( General Setup )
+SEO Book Pro Nightly version 0.0.3 ( General Setup )
+SEO Book Pro Nightly version 0.0.4 ( Folders and Semantic structure )
+SEO Book Pro Nightly version 0.0.5 ( General Folder and Files Structure )
+SEO Book Pro Nightly version 0.0.6 ( Documentations and How to's )
+SEO Book Pro Nightly version 0.0.7 ( Running Codes and Functions on Demo site )
+SEO Book Pro Nightly version 0.0.8 ( Debug and Test the Functionality )
+SEO Book Pro Nightly version 0.0.9 ( General Layouts and Styles for Responsive )
+SEO Book Pro Nightly version 0.0.10 ( Beta WordPress Custom Template Framework )
+</ol>
+<a href="https://docs.google.com/spreadsheets/d/1XHg9mmm0HjiLWbHd6rVwIy1CHMWOxBBVroZez2vrOU8/" target="_blank">Google Spreadsheet Roadmap Network</a>
