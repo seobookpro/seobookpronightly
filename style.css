@@ -1,0 +1,8 @@
+/*
+
+Main WordPress style.css in the Theme Root /seobookpronightly/style.css
+Your theme’s main stylesheet file. 
+This file will also include information about your theme, such as author name, version number, and plugin URL, in it’s header./*
+Create a root template folder with /css/main.css and in  the functions.php load the file from the /css/ folder with - wp_enqueue_style( 'slider', get_template_directory_uri() . '/css/main.css',false,'1.1','all');
+Source WordPress Theme Handbook - https://developer.wordpress.org/themes/basics/including-css-javascript/#enqueuing-scripts-and-styles
+*/
