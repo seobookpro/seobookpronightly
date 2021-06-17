@@ -1,5 +1,24 @@
+@charset "UTF-8";
 /*
+Theme Name: SEO Book Pro Nightly
+Theme URI: https://demo.seobookpro.com/
+Author: Dimitar Krumov
+Author URI: https://www.linkedin.com/in/barmolino/
+Description: SEO Book Pro Nightly is a blank SEO Friendly Customized from Scratch WordPress Template. Create super Google and SEO Friendly WordPress Powered Websites for your ideas, business or services. Take it for a Free test and enjoy the power of SEO Book Pro Nightly Clean and Simple Functionality! SEO Book Pro Nightly will elevates your portfolio, business website, or personal blog adding more quality and clean from errors pages in the Search Engine Index Pages and Search Result Pages know as SERP. Read more about SEO Book Pro Nightly in the template documentation folder. Thanks for your support and interest.
+Requires at least: 3.5
+Tested up to: 5.8
+Requires PHP: 7.3
+Version: 0.0.3
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: seobookpro
+Tags: one-column,two-columns,tree-columns,four-columns, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets,custom-post-types, rtl-language-support, sticky-post, translation-ready
 
+SEO Book Pro Nightly WordPress Theme, (C) 2005 - 2021 seobookpro.com
+SEO Book Pro Nightly is distributed under the terms of the GNU GPL.
+*/
+
+/*
 Main WordPress style.css in the Theme Root /seobookpronightly/style.css
 Your theme’s main stylesheet file. 
 This file will also include information about your theme, such as author name, version number, and plugin URL, in it’s header./*
