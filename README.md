@@ -15,11 +15,8 @@
 <p>Each of this top 3 Website Elements includes a lot of WordPress Features to Add Custom menus, fields, elements, widgets, text and many more.  All feedbacks are welcome always. If you are interested about the SEO Book Pro Alpha 0.0.1 - Nightly Project Status visit our Demo to Learn more and stay in touch with our Dev Team about every Features and Future SEO Book Pro Alpha Nightly Updates.<br />Visit the <a href="https://seobookpro.com/seobookpro-nightly/" target="_blank">SEO Book Pro Nightly - Alpha</a> Demo Page Here</p>
 
 ### Visit our website below to read more about the Project 
-
 <p><a href="https://seobookpro.com/" target="_blank" rel="bookmark" title="SEO Book Pro - Alpha 0.0.1 - Nightly">SEO Book Pro</a>
-
-<h2>Follow SEO Book Pro on</h2>:
-
+<h2>Follow SEO Book Pro on</h2>
 <ul>
 <li>Facebook: https://www.facebook.com/ProSEOBook/</li>
 <li>Twitter: https://twitter.com/seobookpro</li>
