@@ -1,4 +1,4 @@
-# SEO Book Pro - Alpha 0.0.1 - Nightly
+# SEO Book Pro - Alpha 0.0.9 - Nightly
 
 <p>Welcome to the One and Only WordPress Custom Template made by 20 years Experienced Web Developer. The SEO Book Pro is fully optimized for the Search Engines like Google, Yahoo and Bing.  The Template is based on all old, current and featured Web Fundamentals that are Required by the Search Engines to Rank your website on better positions and serve the visitors better User Experience that can convert more.</p>
 
@@ -12,10 +12,10 @@
 <li>Website Footer</li> 
 </ul>
 
-<p>Each of this top 3 Website Elements includes a lot of WordPress Features to Add Custom menus, fields, elements, widgets, text and many more.  All feedbacks are welcome always. If you are interested about the SEO Book Pro Alpha 0.0.1 - Nightly Project Status visit our Demo to Learn more and stay in touch with our Dev Team about every Features and Future SEO Book Pro Alpha Nightly Updates.<br />Visit the <a href="https://seobookpro.com/seobookpro-nightly/" target="_blank">SEO Book Pro Nightly - Alpha</a> Demo Page Here</p>
+<p>Each of this top 3 Website Elements includes a lot of WordPress Features to Add Custom menus, fields, elements, widgets, text and many more.  All feedbacks are welcome always. If you are interested about the SEO Book Pro Alpha 0.0.1 - Nightly Project Status visit our Demo to Learn more and stay in touch with our Dev Team about every Features and Future SEO Book Pro Alpha Nightly Updates.<br />Visit the <a href="https://nightly.seobookpro.com/" target="_blank">SEO Book Pro Nightly - Alpha</a> Demo Page Here</p>
 
 ### Visit our website below to read more about the Project 
-<p><a href="https://seobookpro.com/" target="_blank" rel="bookmark" title="SEO Book Pro - Alpha 0.0.1 - Nightly">SEO Book Pro</a>
+<p><a href="https://nightly.seobookpro.com/" target="_blank" rel="bookmark" title="SEO Book Pro - Alpha 0.0.9 - Nightly">SEO Book Pro</a>
 <h2>Follow SEO Book Pro on</h2>
 <ul>
 <li>Facebook: https://www.facebook.com/ProSEOBook/</li>
