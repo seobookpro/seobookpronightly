@@ -73,7 +73,7 @@ If you've enjoyed our SEO Book Pro project, find us on <a href="https://www.patr
 <li>Optimization
 <li>SEO A-Z
 <li>SEO CSS
-<li>SEO HTML – Structure of a Web Page
+<li>SEO HTML – Structure of a Web Page - <a href="https://seobookpro.com/web-architecture/" target="_blank" title="WordPress Web Architecture – Out of the Box SEO">SEO Book Pro Beta Nightly</a>
 </ul>
 <hr>
 ### Google SEO
