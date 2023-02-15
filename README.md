@@ -12,6 +12,55 @@
 <li>Website Footer</li> 
 </ul>
 
+### 3 Rows Header Navigation Menus
+## Top Header Navigation Menu 12 Customizable Columns
+<ul>
+<li>Top Header Column 1</li>     
+<li>Top Header Column 2</li> 
+<li>Top Header Column 31</li> 
+<li>Top Header Column 4</li> 
+<li>Top Header Column 5</li> 
+<li>Top Header Column 6</li> 
+<li>Top Header Column 7</li> 
+<li>Top Header Column 8</li> 
+<li>Top Header Column 9</li> 
+<li>Top Header Column 10</li> 
+<li>Top Header Column 11</li> 
+<li>Top Header Column 12</li> 
+</ul>
+## Main Header Navigation Menu 12 Customizable Columns
+<ul>
+<li>Main Header Column 1</li>     
+<li>Main Header Column 2</li> 
+<li>Main Header Column 31</li> 
+<li>Main Header Column 4</li> 
+<li>Main Header Column 5</li> 
+<li>Main Header Column 6</li> 
+<li>Main Header Column 7</li> 
+<li>Main Header Column 8</li> 
+<li>Main Header Column 9</li> 
+<li>Main Header Column 10</li> 
+<li>Main Header Column 11</li> 
+<li>Main Header Column 12</li> 
+</ul>
+## Bottom Header Navigation Menu 12 Customizable Columns
+<ul>
+<li>Bottom Header Column 1</li>     
+<li>Bottom Header Column 2</li> 
+<li>Bottom Header Column 31</li> 
+<li>Bottom Header Column 4</li> 
+<li>Bottom Header Column 5</li> 
+<li>Bottom Header Column 6</li> 
+<li>Bottom Header Column 7</li> 
+<li>Bottom Header Column 8</li> 
+<li>Bottom Header Column 9</li> 
+<li>Bottom Header Column 10</li> 
+<li>Bottom Header Column 11</li> 
+<li>Bottom Header Column 12</li> 
+</ul>
+### Visit our website below to see the 3 rows Header Navigation Menus
+<p><a href="https://blankwordpress.store/theme-blocks/" target="_blank" rel="bookmark" title="SEO Book Pro - Alpha 0.2.9 - Nightly">3 rows Header Navigation Menu</a>
+
 <p>Each of this top 3 Website Elements includes a lot of WordPress Features to Add Custom menus, fields, elements, widgets, text and many more.  All feedbacks are welcome always. If you are interested about the SEO Book Pro Alpha 0.2.9 - Nightly Project Status visit our Demo to Learn more and stay in touch with our Dev Team about every Features and Future SEO Book Pro Alpha Nightly Updates.<br />Visit the <a href="https://nightly.seobookpro.com/" target="_blank">SEO Book Pro Nightly - Alpha</a> Demo Page Here</p>
 
 ### Visit our website below to read more about the Project 
